@@ -21,10 +21,8 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "github:semantic-release/github",
     "@semantic-release/npm": "github:semantic-release/npm",
     "semantic-release": "^21.0.9"
-  },
-  "dependencies": {
-    "@semantic-release/github": "github:semantic-release/github"
   }
 }
