@@ -12,7 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
-
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -20,6 +19,12 @@
   },
   "homepage": "https://github.com/MickDarkstar/init-poc#readme",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "github:semantic-release/npm",
     "semantic-release": "^21.0.9"
+  },
+  "dependencies": {
+    "@semantic-release/github": "github:semantic-release/github"
   }
 }
