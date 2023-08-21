@@ -1,0 +1,22 @@
+{
+  "name": "init-semantic-version-npm",
+  "version": "1.0.0",
+  "description": "testing semantic-version for npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickDarkstar/init-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MickDarkstar/init-poc/issues"
+  },
+  "homepage": "https://github.com/MickDarkstar/init-poc#readme",
+  "devDependencies": {
+    "semantic-release": "^21.0.9"
+  }
+}
